@@ -11,7 +11,7 @@ The **Ready or Not Mod Verification Tool** is a Python-based graphical user inte
 ### Running the Tool
 1. Clone this repository or download the source code.
 2. Open a terminal or command prompt.
-3. Navigate to the directory where the tool's script (`folder_check_cleanup.py`) is located.
+3. Navigate to the directory where the tool's script (`RoN-Mod-Remover.py`) is located.
 4. Run the script using the command:
 
 
