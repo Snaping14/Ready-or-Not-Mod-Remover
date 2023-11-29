@@ -8,11 +8,16 @@ The **Ready or Not Mod Verification Tool** is a Python-based graphical user inte
 
 ## Instructions
 
+### Downloading the Release Build
+1. Go to the [Releases]([https://link-to-your-releases-page](https://github.com/Snaping14/Ready-or-Not-Mod-Remover/releases)) page of this repository.
+2. Download the latest release build (e.g., `ReadyOrNotModVerification_v1.0.zip`).
+
 ### Running the Tool
-1. Clone this repository or download the source code.
+1. Extract the downloaded ZIP file to a directory of your choice.
 2. Open a terminal or command prompt.
-3. Navigate to the directory where the tool's script (`RoN-Mod-Remover.py`) is located.
+3. Navigate to the directory where the extracted files are located.
 4. Run the script using the command:
+
 
 
 ### How to Use
