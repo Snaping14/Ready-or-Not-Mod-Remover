@@ -10,7 +10,7 @@ The **Ready or Not Mod Verification Tool** is a Python-based graphical user inte
 
 ### Downloading the Release Build
 1. Go to the [Releases](https://github.com/Snaping14/Ready-or-Not-Mod-Remover/releases) page of this repository.
-2. Download the latest release build (e.g., `ReadyOrNotModRemover_v1.x.py
+2. Download the latest release build (e.g., `ReadyOrNotModRemover_v1.1.py
 `).
 
 ### Running the Tool
