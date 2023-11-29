@@ -9,17 +9,17 @@ The **Ready or Not Mod Verification Tool** is a Python-based graphical user inte
 ## Instructions
 
 ### Downloading the Release Build
-1. Go to the [Releases]([https://link-to-your-releases-page](https://github.com/Snaping14/Ready-or-Not-Mod-Remover/releases)) page of this repository.
-2. Download the latest release build (e.g., `ReadyOrNotModVerification_v1.0.zip`).
+1. Go to the [Releases](https://github.com/Snaping14/Ready-or-Not-Mod-Remover/releases) page of this repository.
+2. Download the latest release build (e.g., `ReadyOrNotModRemover_v1.x.py
+`).
 
 ### Running the Tool
-1. Extract the downloaded ZIP file to a directory of your choice.
-2. Open a terminal or command prompt.
-3. Navigate to the directory where the extracted files are located.
-4. Run the script using the command:
-
-
-
+1. Open a terminal or command prompt.
+2. Navigate to the directory where the extracted files are located.
+3. Run the script using the command:
+```
+python ReadyOrNotModRemover_v1.1.py
+```
 ### How to Use
 1. **To find the "Paks" folder in the Ready or Not game:**
 - Right-click on the game in the Steam library.
@@ -35,7 +35,7 @@ The **Ready or Not Mod Verification Tool** is a Python-based graphical user inte
 7. Once the deletion process is complete, a confirmation message will be displayed.
 8. Close the application window when finished.
 
-**Caution**: Exercise caution while deleting files and folders, as the deletion process cannot be undone.
+**Caution**: Exercise extreme caution while deleting files and folders, as the deletion process cannot be undone. **Backup your files** before using this tool, and use it **at your own risk**.
 
 ## Contributions and Issues
 Contributions, bug reports, and suggestions for improvements are welcome! Feel free to open an issue or pull request on this GitHub repository.
