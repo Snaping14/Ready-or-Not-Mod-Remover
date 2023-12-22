@@ -35,7 +35,7 @@ python ReadyOrNotModRemover_v1.1.py
 7. Once the deletion process is complete, a confirmation message will be displayed.
 8. Close the application window when finished.
 
-**Caution**: Exercise extreme caution while deleting files and folders, as the deletion process cannot be undone. **Backup your files** before using this tool, and use it **at your own risk**.
+**Caution**: Exercise caution while deleting files and folders, as the deletion process cannot be undone. **Backup your files** before using this tool, and use it **at your own risk**.
 
 ## Contributions and Issues
 Contributions, bug reports, and suggestions for improvements are welcome! Feel free to open an issue or pull request on this GitHub repository.
